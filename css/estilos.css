@@ -1,0 +1,43 @@
+body{
+	background: white;
+}
+
+h1{
+	color: black;
+}
+
+p{
+	color: black;
+}
+
+ol{
+	color: white;
+}
+
+nav{
+	background: #251E99;
+	padding: 10px;	
+	text-align: right;
+}
+li{
+	display: inline;
+	padding: 10px;
+}
+.img1{
+	width: 20%;
+}
+.img2{
+	width: 20%;
+}
+.inicio{
+	background: url('../img/fondo.png');
+	text-align: center;
+	height: 400px;
+	background-size: 100%;
+	padding-top: 100px;
+}
+.videos{
+	background: white;
+	text-align: center;
+	padding: 50px;
+}
